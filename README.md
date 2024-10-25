@@ -1,6 +1,6 @@
 # PDF Q&A System
 ## Project Summery:
-<b>Objective:</b> The project's objective is to create a system that enables users to submit PDF documents and pose questions in response to the content of those documents. The system efficiently retrieves responses from the PDF text using an advanced large language model (LLM), LLaMA 3.1 (70B), and Chroma as the vector database. With the help of the project, users will be able to upload files once and query the document several times to get pertinent results. The interface will be simple to use.
+<b>Objective:</b> The project's objective is to create a system that enables users to submit PDF documents and pose questions in response to the content of those documents. The system efficiently retrieves responses from the PDF text using an advanced large language model (LLM), LLaMA 3.1 (70B), and FAISS as the vector database. With the help of the project, users will be able to upload files once and query the document several times to get pertinent results. The interface will be simple to use.
 
 #### Technologies Used:
 
